@@ -33,9 +33,9 @@
   },
 
   "depends": {
-	"fabricloader": ">=0.14.21",
+	"fabricloader": ">=0.16.9",
 	"fabric": "*",
-	"minecraft": "~1.20",
+	"minecraft": "~1.21.4",
 	"java": ">=17"
   }<#if w.hasElementsOfBaseType("item") || w.hasElementsOfType("biome")>,
   "mixins": [
